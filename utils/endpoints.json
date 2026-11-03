@@ -1,0 +1,10 @@
+{
+    "apiEndPoints" : {
+        "getAllUsers" : "/users" ,
+        "loginUser"   : "/user/login" ,
+        "authUser"    : "/user/me" ,
+        "addUser"     : "/users/add" ,
+        "updateUser"  : "/users/4" ,
+        "deleteUser"  : "/users/1"
+    }
+}

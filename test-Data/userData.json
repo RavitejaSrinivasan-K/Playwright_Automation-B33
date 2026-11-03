@@ -1,0 +1,11 @@
+{
+
+    "userdata" : {
+        "name" : "Raviteja" ,
+        "Country" : "India" ,
+        "City" : "Chennai" , 
+        "Creditcard" : "987652345678765",
+        "Month" : "July" ,
+        "Year" : "2029"
+    }
+}

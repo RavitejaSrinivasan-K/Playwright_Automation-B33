@@ -1,0 +1,24 @@
+{
+  "name": "playwright_b33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --headed --project=chromium" ,
+    "headed" : "npx playwright test --headed" ,
+    "chromium" : "npx playwright test --chromium",
+    "debug" : "npx playwright test --debug"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "xlsx": "^0.18.5"
+  }
+}
